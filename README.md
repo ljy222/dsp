@@ -37,6 +37,11 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
   ## 遇到的困难:
      在首页中的折线图遇到了Bug,主要是操作时间数据时出现的Bug,在操作Mock数据时出现了Bug
      解决方案:1.思路不清晰整理思路，主要是整理了判断年份条件的思路,Mock数据的解决方案是[`list|${count}`]解决的
+
+
+![Image text](https://github.com/Liufanglei88/vue-manger/blob/master/src/assets/sum.png 
+
+)
      
 
   
