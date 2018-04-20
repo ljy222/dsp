@@ -39,9 +39,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
      解决方案:1.思路不清晰整理思路，主要是整理了判断年份条件的思路,Mock数据的解决方案是[`list|${count}`]解决的
 
 
-![Image text](https://github.com/Liufanglei88/vue-manger/blob/master/src/assets/sum.png 
+![Image text](https://github.com/ljy222/dsp/blob/master/static/dsp.png)
 
-)
      
 
   
